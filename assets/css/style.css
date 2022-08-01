@@ -1,0 +1,45 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+body {
+  background-color: rgb(212, 212, 212);
+  background-image: url("../img/fondo\ marmol.jpg");
+  font-size: 1.3em;
+}
+h1{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding-top: 3rem;
+  font-size: 2.1em;
+  color: rgb(0, 0, 0);
+}
+h3 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 1.8em;
+  color: rgb(0, 0, 0);
+  padding-bottom: 3rem;
+}
+p{
+  font-size: 0.8em;
+  color: rgb(138, 138, 138);
+}
+.box {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.button {
+  border-radius: 2.5rem;
+  padding: 6px;
+  margin-top: 1%;
+  width: 15%;
+  background-color: aqua;
+  margin-bottom: 2rem;
+}
+span {
+  font-size: 1.5em;
+}
+ul {
+  font-size: 1.5em;
+}
